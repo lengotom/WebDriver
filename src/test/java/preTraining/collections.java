@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Set;
 
 
-public class collections {
+public class Collections {
 	public static void main (String [] args) {
 		
 		System.out.println("----LIST----");

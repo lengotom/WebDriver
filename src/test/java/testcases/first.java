@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-public class first {
+public class First {
 	public static void main(String [] args) throws InterruptedException {
 		System.setProperty("webdriver.gecko.driver", "C:\\Users\\TOMLEN\\selenium\\geckodriver.exe");
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\TOMLEN\\selenium\\chromedriver.exe");
