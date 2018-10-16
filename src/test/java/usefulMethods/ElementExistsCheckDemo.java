@@ -34,9 +34,9 @@ public class ElementExistsCheckDemo {
 	@Test
 	public void test() {
 		driver.get(baseURL);
-		System.out.println(exists.checkElementExists("opentab"));
-		System.out.println(exists.checkElementExists("opntab"));
-		System.out.println(exists.checkElementExists("cen-right-align"));
-		System.out.println(exists.checkElementExists("a"));
+//		System.out.println(exists.checkElementExists("opentab"));
+//		System.out.println(exists.checkElementExists("opntab"));
+//		System.out.println(exists.checkElementExists("cen-right-align"));
+//		System.out.println(exists.checkElementExists("a"));
 	}
 }

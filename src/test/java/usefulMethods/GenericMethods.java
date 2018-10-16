@@ -1,5 +1,6 @@
 /*********************************************************************************************************************************************
  * useless bullshit for finding elements, makes finding more error prone, doesn't speed up things
+ * only thing that it might me useful for is writing custom methods that use find
  ********************************************************************************************************************************************/
 
 
